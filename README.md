@@ -50,14 +50,14 @@
 
 | Project | Description | Tech |
 |:--|:--|:--|
-| [**cicd-test**](https://github.com/Jwy-123/cicd-test) | Docker Compose와 GitHub Actions를 활용한 CI/CD 연습 프로젝트 | JavaScript · Docker · GitHub Actions |
+| [**cicd-test**](https://github.com/Switchh2/cicd-test) | Docker Compose와 GitHub Actions를 활용한 CI/CD 연습 프로젝트 | JavaScript · Docker · GitHub Actions |
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jwy-123&theme=tokyonight" alt="Jwy-123 GitHub activity" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jwy-123&theme=tokyonight" alt="Jwy-123 GitHub stats" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jwy-123&theme=tokyonight" alt="Languages by repository" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Switchh2&theme=tokyonight" alt="Switchh2 GitHub activity" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Switchh2&theme=tokyonight" alt="Switchh2 GitHub stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Switchh2&theme=tokyonight" alt="Languages by repository" />
 </div>
 
 <div align="center">
