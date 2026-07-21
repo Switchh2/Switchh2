@@ -1,10 +1,10 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Jang%20Won%20Young&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Developer%20who%20keeps%20learning%20and%20building&descAlignY=58&descSize=17)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Hello%2C%20World!&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Learning%20by%20building%2C%20one%20step%20at%20a%20time&descAlignY=58&descSize=17)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C6CF2&center=true&vCenter=true&width=560&lines=Hello%2C+I'm+Won+Young+%F0%9F%91%8B;Interested+in+AI%2C+Game+and+Web;Learning%2C+Building%2C+Growing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C6CF2&center=true&vCenter=true&width=560&lines=Learning+by+building;Exploring+different+technologies;Growing+one+step+at+a+time)](https://git.io/typing-svg)
 
-### 함께 만들고, 배우고, 성장하는 개발자
+### 배우고 만들며 성장하는 개발자
 
 개발은 단순한 **Programming**을 넘어,<br />
 다양한 사람들이 함께 문제를 해결하는 **Development**라고 생각합니다.
@@ -15,10 +15,10 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 더 나은 개발자가 되기 위해 꾸준히 배우고 기록합니다.
-- 🤖 **AI · 게임 · 서버 · 클라이언트** 분야에 관심이 있습니다.
-- 🤝 혼자 빠르게 가기보다 함께 멀리 가는 개발을 좋아합니다.
-- 🔭 새로운 기술을 직접 적용하며 경험을 쌓고 있습니다.
+- 🌱 꾸준히 배우고 직접 만들며 경험을 쌓고 있습니다.
+- 🧭 하나의 분야를 정해두기보다 다양한 기술과 문제를 탐색합니다.
+- 🔭 새롭게 배운 내용을 작은 프로젝트에 적용해 봅니다.
+- 🤝 함께 고민하고 지식을 나누는 과정을 중요하게 생각합니다.
 
 ### 🛠 Tech Stack
 
