@@ -1,32 +1,42 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=KEEP%20ITERATING.&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Try.%20Learn.%20Improve.&descAlignY=58&descSize=18)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=KEEP%20ITERATING.&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Try.%20Learn.%20Improve.&descAlignY=58&descSize=18" alt="Keep Iterating" />
 
-### 더 나은 답을 찾을 때까지 시도합니다.
+<h3>더 나은 답을 찾을 때까지 시도합니다.</h3>
 
-한 번에 완벽한 답을 찾기보다,<br />
-직접 만들고 배우며 조금씩 개선해 나갑니다.
+<p>
+  한 번에 완벽한 답을 찾기보다,<br />
+  직접 만들고 배우며 조금씩 개선해 나갑니다.
+</p>
 
-</div>
+<br />
 
----
+<h3>👨‍💻 About Me</h3>
 
-### 👨‍💻 About Me
+<p>
+  🧩 문제를 작게 나누고 하나씩 해결합니다.<br />
+  🔁 시도에서 얻은 배움을 다음 개선에 반영합니다.<br />
+  🛠 새로운 기술은 직접 만들어보며 익힙니다.<br />
+  🤝 함께 고민하고 지식을 나누는 과정을 중요하게 생각합니다.
+</p>
 
-- 🧩 문제를 작게 나누고 하나씩 해결합니다.
-- 🔁 시도에서 얻은 배움을 다음 개선에 반영합니다.
-- 🛠 새로운 기술은 직접 만들어보며 익힙니다.
-- 🤝 함께 고민하고 지식을 나누는 과정을 중요하게 생각합니다.
+<br />
 
-### 🔄 How I Work
+<h3>🔄 How I Work</h3>
 
-| TRY | LEARN | IMPROVE |
-|:--:|:--:|:--:|
-| 작게 시작하고 직접 실행합니다. | 결과와 과정을 돌아봅니다. | 배운 내용을 다음 시도에 반영합니다. |
+<p>
+  <strong>TRY</strong>&nbsp;&nbsp;→&nbsp;&nbsp;<strong>LEARN</strong>&nbsp;&nbsp;→&nbsp;&nbsp;<strong>IMPROVE</strong>
+</p>
 
-### 🛠 Tech Stack
+<p>
+  작게 시작하고 &nbsp;·&nbsp; 과정을 돌아보고 &nbsp;·&nbsp; 다음 시도에 반영합니다.
+</p>
 
-#### 자주 사용하는 기술
+<br />
+
+<h3>🛠 Tech Stack</h3>
+
+<h4>주로 사용하는 기술</h4>
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript" />
@@ -37,12 +47,17 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff" alt="MySQL" />
 </p>
 
-#### 사용 경험이 있는 기술
+<h4>사용 경험이 있는 기술</h4>
 
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=ffffff" alt="Java" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=ffffff" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=ffffff" alt="Swift" />
+</p>
+
+<h4>Tools & Infra</h4>
+
+<p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=ffffff" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=ffffff" alt="Jenkins" />
@@ -50,19 +65,8 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=ffffff" alt="AWS" />
 </p>
 
-### 🚀 Team Projects
+<br />
 
-> 현재 팀으로 참여하며 개발을 이어가고 있는 프로젝트입니다.
-
-| Project | Description | Tech |
-|:--|:--|:--|
-| [**wku-2026-1-kakao-shop**](https://github.com/adapterz/wku-2026-1-kakao-shop) | 카카오 선물하기를 익산 지역상생 테마로 구현하는 팀 프로젝트입니다. FE·BE 통합 구조에서 기능을 개발하고 개선합니다. | JavaScript · Node.js · Express · MySQL |
-| **wku-iksan-store-BE** 🔒 | 교육 수료 후 개발을 이어가기 위해 분리한 백엔드 저장소입니다. 인증·상품·주문·선물 API를 관리합니다. | Node.js · Express · MySQL |
-
-<sub>🔒 팀 비공개 저장소는 공개 전환 후 링크를 추가할 예정입니다.</sub>
-
-<div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" alt="Footer" />
 
 </div>
