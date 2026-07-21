@@ -50,11 +50,16 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=ffffff" alt="AWS" />
 </p>
 
-### 🚀 Featured Project
+### 🚀 Team Projects
+
+> 현재 팀으로 참여하며 개발을 이어가고 있는 프로젝트입니다.
 
 | Project | Description | Tech |
 |:--|:--|:--|
-| [**cicd-test**](https://github.com/Switchh2/cicd-test) | Docker Compose와 GitHub Actions를 활용한 CI/CD 연습 프로젝트 | JavaScript · Docker · GitHub Actions |
+| [**wku-2026-1-kakao-shop**](https://github.com/adapterz/wku-2026-1-kakao-shop) | 카카오 선물하기를 익산 지역상생 테마로 구현하는 팀 프로젝트입니다. FE·BE 통합 구조에서 기능을 개발하고 개선합니다. | JavaScript · Node.js · Express · MySQL |
+| **wku-iksan-store-BE** 🔒 | 교육 수료 후 개발을 이어가기 위해 분리한 백엔드 저장소입니다. 인증·상품·주문·선물 API를 관리합니다. | Node.js · Express · MySQL |
+
+<sub>🔒 팀 비공개 저장소는 공개 전환 후 링크를 추가할 예정입니다.</sub>
 
 <div align="center">
 
